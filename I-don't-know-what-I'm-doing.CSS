@@ -1,0 +1,13 @@
+.idk {
+    font-family:'Franklin Gothic Medium';
+    color:rgb(0, 0, 0);
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;   
+    background-color: rgba(64, 70, 64, 0.918);
+    margin: 0px; 
+}
+body{
+    background-color:hsla(129, 7%, 20%, 0.699);
+    margin: 0px;
+}
